@@ -1,0 +1,30 @@
+button{
+
+	margin: 0 auto;
+	float: left;
+}
+
+.container{
+
+	margin: 0 auto;
+	position: relative;
+	overflow: hidden;
+	border: 1px solid black;
+	height: 400px;
+	width: 700px;
+	top: 15px;
+}
+
+.box{
+
+	position: absolute;
+	height: 40px;
+	width: 40px;
+	border: 2px solid black;
+}
+
+.button-container{
+
+	margin: 0 auto;
+	width: 100%;
+}
